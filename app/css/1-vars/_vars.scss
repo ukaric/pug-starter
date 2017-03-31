@@ -1,0 +1,19 @@
+:root {
+    --main-nav: #454B52;
+    --main-bg-color: #ECECEC;
+    --secondary-font-color: #eff;
+    --font-main: 'Lato', sans-seif;
+    --font-copy: 'Roboto Slab', serif;
+    --body-color: #ececec;
+    --shadow: 0 4px 16px 1px #ccc;
+}
+
+*,
+*:after,
+*:before {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: var(--font-main);
+}
